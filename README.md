@@ -25,6 +25,7 @@ This repository contains tailored versions of my resume, organized according to 
 | 02 | Data Analyst | [View Resume](Resume_Data_Analyst.pdf) |
 | 03 | Python Developer | [View Resume](Resume_Python_Developer.pdf) |
 | 04 | Software Developer | [View Resume](Resume_Software_Developer.pdf) |
+| 05 | Web Developer | [View Resume](Resume_Web_Developer.pdf) |
 
 ---
 
